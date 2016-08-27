@@ -1,0 +1,14 @@
+{
+  "name": "phaser_first_game",
+  "version": "1.0.0",
+  "description": "a simple star collecting game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maroonface",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
